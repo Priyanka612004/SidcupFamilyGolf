@@ -75,6 +75,7 @@ video{
     object-fit: cover;
     z-index:-1 ;
     position: fixed;
+    /* visibility: hidden; */
 }
 #main{
     position: relative;
